@@ -1,0 +1,14 @@
+# Ignore folders
+.ipynb_checkpoints/
+
+# Ignore very large datasets
+2_Bots_Detection/1_Data/
+
+
+
+# Ignore single files
+git_commands
+
+
+# Ignore very large models
+2_Bots_Detection/3_Model/
