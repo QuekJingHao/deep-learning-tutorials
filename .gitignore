@@ -2,8 +2,7 @@
 .ipynb_checkpoints/
 
 # Ignore very large datasets
-2_Bots_Detection/1_Data/
-
+2_Bots_Detection/1_Data/cresci-2015/
 
 
 # Ignore single files
